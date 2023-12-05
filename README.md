@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Proceedix Android client](www.proceedix.com)
 
-- 🌱 I’m currently learning **Flutter, Go, Rust**
-
 - 📫 How to reach me **lander.dumoulin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
