@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lander Dumoulin</h1>
 <h3 align="center">A developer from Belgium</h3>
 
-- 🔭 I’m currently working on [Proceedix Android client](www.proceedix.com)
+- 🔭 I’m currently working on [Proceedix Android client](https://www.proceedix.com)
 
 - 📫 How to reach me **lander.dumoulin@gmail.com**
 
